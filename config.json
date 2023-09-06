@@ -82,6 +82,17 @@
       }
     }
   },
+  "uniqlo": {
+        "atc_supported": true,
+    "wishlist_supported": true,
+    "wait_for_submit": false,
+    "locales": {
+      "default": {
+        "atc_url": "https://www.uniqlo.com/on/demandware.store/Sites-GB-Site/en_GB/Cart-AddProduct?format=ajax",
+        "atc_redirect_url": "https://www.uniqlo.com/uk/en/checkoutlogin",
+        "wishlist_url": "https://www.snipes.com/on/demandware.store/Sites-snse-DE-AT-Site/de_DE/Wishlist-AddProduct?format=ajax",
+        "wishlist_redirect_url": "https://www.snipes.com/wishlist"
+      },
   "solebox": {
     "atc_supported": true,
     "wishlist_supported": false,
