@@ -1,7 +1,7 @@
 {
   "snipes": {
     "atc_supported": true,
-    "wishlist_supported": true,
+    "wishlist_supported": false,
     "wait_for_submit": false,
     "locales": {
       "default": {
